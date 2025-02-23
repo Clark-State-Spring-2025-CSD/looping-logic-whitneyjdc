@@ -13,3 +13,10 @@
 #13
 #14
 #FizzBuzz
+
+number = input("Please enter a number: ")
+input = range(26)
+a = [3, 6, 9, 12, 15, 18, 21, 24]
+print ("Fizz") for (a)
+
+
